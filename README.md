@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @POOJA-TELAVANE
-- 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning all the data analytics related tools for better understanding
-- 💞️ I’m looking to collaborate on real time projects
+- 👋 Hi, I’m @POOJA-TELAVANE, Junior Data Scientist with expertise in Machine Learning
+- 👀 I’m interested in Data Science, Machine Learning, Data Analysis
 - 📫 How to reach me +552918784
 
 <!---
